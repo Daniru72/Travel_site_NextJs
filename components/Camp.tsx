@@ -1,5 +1,7 @@
+'use client'
 import { PEOPLE_URL } from "@/constants";
 import Image from "next/image";
+import React from 'react'
 
 interface CampProps {
   backgroundImage: string;
