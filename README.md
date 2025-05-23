@@ -1,5 +1,28 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Introduction
+Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+
+## Tech Stack
+ - Next.js
+ - Tailwind CSS
+
+## Features
+ - Hero Section
+ - Camp Exploration Section
+ - Engaging Travel Guide Section
+ - Feature-Rich Section
+ - Call to Action for Mobile Apps
+ - Footer
+
+## ScreenShots
+<img src="https://github.com/user-attachments/assets/1847d2e6-950d-4372-a5f8-61f437c4f836" alt="Cart" width="400">
+<img src="https://github.com/user-attachments/assets/f7138cb1-4a13-4861-af19-b998c02e3e2c" alt="Cart" width="400">
+<img src="https://github.com/user-attachments/assets/2e3c41b7-1108-4a23-a617-e0805335f56e" alt="Cart" width="400">
+<img src="https://github.com/user-attachments/assets/2fc07479-57bf-4842-9baa-ceeb5f7c94bf" alt="Cart" width="400">
+<img src="https://github.com/user-attachments/assets/bbd3fc92-b6de-4d4f-a4e7-8b8723567720" alt="Cart" width="400">
+
+
 ## Getting Started
 
 First, run the development server:
